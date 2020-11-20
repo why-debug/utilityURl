@@ -21,7 +21,7 @@
 * 8、git stash show 显示stash合并到本地代码后，哪些文件会修改，以及修改的概述
 * 9、git stash show -p stash@{0} 显示修改的详细内
 ### a标签下载文件：
-(```)
+```
 handleOk() {
       let link = document.createElement("a");
       link.download = "附件1.xls";  //下载文件名
@@ -29,4 +29,5 @@ handleOk() {
       document.body.appendChild(link);
       link.click();
 },
-(```)
+
+```
