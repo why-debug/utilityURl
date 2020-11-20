@@ -8,6 +8,7 @@
 
 ### 解决因为本地代码和远程代码冲突，导致git pull无法拉取远程代码的问 
 [地址](https://www.cnblogs.com/zhujiabin/p/9140863.html)
+<a href="https://www.cnblogs.com/zhujiabin/p/9140863.html" target="_blank">地址</a>
 
 #### 一般解决办法：
 1. git stash 将本地代码stash到仓库中。
