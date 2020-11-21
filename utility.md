@@ -2,8 +2,8 @@
 ### 各种干货视频及各种软件安装包地址
 
 * [后台系统的权限控制与管理【完结】](https://www.bilibili.com/video/BV15Q4y1K79c?from=search&seid=13581687011867552931)
-* [git各版本下载地址【全版本】](https://npm.taobao.org/mirrors/git-for-windows/)
 * [vue3正式版教程【李南江版】](https://www.bilibili.com/video/BV14k4y117LL?from=search&seid=770007897900796550)
+* [git各版本下载地址【全版本】](https://npm.taobao.org/mirrors/git-for-windows/)
 
 #### document.body.style.overflow = "hidden"; //禁止主页面滚动
 
